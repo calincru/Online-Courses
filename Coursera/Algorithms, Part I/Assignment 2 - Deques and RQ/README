@@ -9,7 +9,4 @@ I implemented Randomized Queue data structure using resizing arrays.
 The repo also contains a testing file, Subset.java.
 
 
-ATTENTION!!
-To compile it, you need the have algs4.jar in the classpath. The config.sh
-script is provided by the professor who holds the course and assumes you have an
-algs4 directory in your /home.
+Problem explained: http://coursera.cs.princeton.edu/algs4/assignments/queues.html
