@@ -1,0 +1,8 @@
+********************************************
+Problema urmareste simularea fenomenului numit "percolation" ( http://en.wikipedia.org/wiki/Percolation ) prin folosirea algoritmului Union Find.
+
+Enunt: http://coursera.cs.princeton.edu/algs4/assignments/percolation.html 
+
+********************************************
+
+Pentru a-l compila este necesar sa se adauge in classpath path-ul catre fisierul .jar inclus in repository. Acesta contine cateva clase folosite in implementarea problemei ( clase predefinite pentru cursul de algoritmi, partea I ).
